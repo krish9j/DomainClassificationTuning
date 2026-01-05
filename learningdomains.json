@@ -1,0 +1,3280 @@
+{
+    "domains": [
+        {
+            "id": 1,
+            "name": "My Growing Body (Physical Development)",
+            "categoryName": "Physical Development",
+            "categoryTitle": "My Growing Body",
+            "sortOrder": 1,
+            "attributes": [
+                {
+                    "id": 1,
+                    "number": 1,
+                    "name": "Uses large muscles to move & balance own body",
+                    "categoryInformation": "A younger child may crawl, pull up, and/or walk. An older child may walk on a balance beam, jump over a tree stump, or pull a wagon.",
+                    "sortOrder": 1,
+                    "progressionPoints": [
+                        {
+                            "id": 1,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Demonstrates strength & control of head, arms, legs, & trunk",
+                            "sortOrder": 1,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 2,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Explores new body positions & movements, such as rolling, sitting, & crawling",
+                            "sortOrder": 2,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 3,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Moves with increased coordination, with or without adult support",
+                            "sortOrder": 3,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 4,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Demonstrates control in changing body position & movements such as sitting to standing, stooping, running",
+                            "sortOrder": 4,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 5,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Balances with increasing coordination",
+                            "sortOrder": 5,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 6,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Uses non-locomotor skills with increased control and coordination",
+                            "sortOrder": 6,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 7,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Performs activities that require coordination of several large muscle movements",
+                            "sortOrder": 7,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 8,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Demonstrates strength & stamina in participation of physical activities",
+                            "sortOrder": 8,
+                            "descriptionOrder": "h",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 384,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Increases muscle strength and gains greater control over large and fine motor development",
+                            "sortOrder": 9,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 385,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Travels within a large group, without bumping into others or falling, while using locomotor skills",
+                            "sortOrder": 10,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "number": 2,
+                    "name": "Uses large muscles to explore & interact with the environment",
+                    "categoryInformation": "A younger child may reach for objects in the environment. An older child may climb an outdoor play structure.",
+                    "sortOrder": 2,
+                    "progressionPoints": [
+                        {
+                            "id": 9,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Uses body position & posture to explore & interact with environment",
+                            "sortOrder": 11,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 10,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Uses balance & movement to explore & interact with environment",
+                            "sortOrder": 12,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 11,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Uses large motor skills such as running, climbing, throwing, to explore environment",
+                            "sortOrder": 13,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 12,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Experiments with body movement through simple game play and/or dancing to music",
+                            "sortOrder": 14,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 13,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Develops an increasing awareness of body & space; allowing for gradually increasing coordinated movement",
+                            "sortOrder": 15,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 14,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Moves body in relation to objects to effectively perform a task",
+                            "sortOrder": 16,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 15,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Understands directional movement (positioning oneself on top, below, to the side of something or someone)",
+                            "sortOrder": 17,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 386,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Demonstrates running and can easily change directions. Can climb elevated structures with minimal adult support.",
+                            "sortOrder": 18,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 387,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Develops and refines throwing, catching and kicking skills",
+                            "sortOrder": 19,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 388,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Engages in complex movements (skipping, dribbling a ball)",
+                            "sortOrder": 20,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "number": 3,
+                    "name": "Uses hands & fingers to explore & interact with the environment",
+                    "categoryInformation": "A younger child may feed and/or dress themselves. An older child may manipulate small toys or objects, or use a pencil to write a story.",
+                    "sortOrder": 3,
+                    "progressionPoints": [
+                        {
+                            "id": 16,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Uses hands to explore the properties of materials, such as feeling or shaking objects",
+                            "sortOrder": 21,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 17,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Uses eye-hand coordination to complete simple tasks",
+                            "sortOrder": 22,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 18,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Uses both hands in coordinated ways to engage in play, routines, & self-care",
+                            "sortOrder": 23,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 19,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Uses simple tools to engage in play, routines, & self-care",
+                            "sortOrder": 24,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 20,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Uses eye-hand coordination to perform more complex tasks such as cutting or drawing simple shapes",
+                            "sortOrder": 25,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 21,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Uses pincer grasp with thumb & fingers to manipulate objects",
+                            "sortOrder": 26,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 22,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Uses more complex tools to engage in play",
+                            "sortOrder": 27,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 23,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Demonstrates precision in hand-eye coordinated tasks",
+                            "sortOrder": 28,
+                            "descriptionOrder": "h",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 389,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Coordinates the use of both hands",
+                            "sortOrder": 29,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 390,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Performs actions involving opposing hand movements (buttoning clothing, starting and zipping up a zipper)",
+                            "sortOrder": 30,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 391,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Uses tools for writing, drawing, cutting",
+                            "sortOrder": 31,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "number": 4,
+                    "name": "Uses senses to explore & interact with the environment",
+                    "categoryInformation": "A younger child may dance to music. An older child may engage in tasting different types of apples or observing changes in nature.",
+                    "sortOrder": 4,
+                    "progressionPoints": [
+                        {
+                            "id": 216,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Visually Tracks or reaches for an object",
+                            "sortOrder": 32,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 217,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Explores objects using hands and mouth",
+                            "sortOrder": 33,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 24,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Uses senses to develop a basic understanding of objects and the environment",
+                            "sortOrder": 34,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 25,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Uses information derived from senses to understand and adjust how to interact with objects and the environment",
+                            "sortOrder": 35,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 392,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Uses senses to understand their environment and then can apply simple reasoning to ask questions and learn more about what they just experienced",
+                            "sortOrder": 36,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "My Feelings & Relationships (Social & Emotional Development)",
+            "categoryName": "Social & Emotional Development",
+            "categoryTitle": "My Feelings & Relationships",
+            "sortOrder": 2,
+            "attributes": [
+                {
+                    "id": 5,
+                    "number": 5,
+                    "name": "Expresses, understands, & regulates emotions",
+                    "categoryInformation": "A younger child may smile when happy or frown when upset. An older child may share that they need space when upset about an event.",
+                    "sortOrder": 5,
+                    "progressionPoints": [
+                        {
+                            "id": 26,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Expresses a variety of emotions through sounds, gestures, facial expressions, & movement",
+                            "sortOrder": 37,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 27,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Is comforted by a familiar adult",
+                            "sortOrder": 38,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 28,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Responds to others' emotional expressions, with a shared emotional reaction",
+                            "sortOrder": 39,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 29,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Seeks comfort when needed from familiar adults or engages in self-comforting behaviors",
+                            "sortOrder": 40,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 30,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Expresses a broad range of emotions & begins to manage those emotions with support",
+                            "sortOrder": 41,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 31,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Uses words to describe feelings or emotions that reflect an understanding or awareness of the emotions of others",
+                            "sortOrder": 42,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 32,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Begins to express and notice subtle and/or complex emotions in self & others",
+                            "sortOrder": 43,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 33,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Manages the expression of feelings with minimal guidance",
+                            "sortOrder": 44,
+                            "descriptionOrder": "h",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 393,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Values fairness and can consider another's perspective",
+                            "sortOrder": 45,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 394,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Can show self-control over emotional reactions, most of the time",
+                            "sortOrder": 46,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 395,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Identifies and describes the experience of different feelings (such as elation, joy, grief, and rage) and how feelings affect daily functioning",
+                            "sortOrder": 47,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "number": 6,
+                    "name": "Develops positive relationships with adults",
+                    "categoryInformation": "A younger child may get excited when a familiar teacher walks into the room. An older child may ask a teacher to play a favorite game with them.",
+                    "sortOrder": 6,
+                    "progressionPoints": [
+                        {
+                            "id": 34,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Communicates with familiar adults by using a variety of behaviors such as crying, smiling, pointing, & reaching",
+                            "sortOrder": 48,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 35,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Looks to or seeks help from familiar adults",
+                            "sortOrder": 49,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 36,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Uses familiar adults for reassurance when engaging with new adults",
+                            "sortOrder": 50,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 37,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Shows affection & preference for familiar adults",
+                            "sortOrder": 51,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 38,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Displays enjoyment in interactions with trusted adults",
+                            "sortOrder": 52,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 39,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Initiates interaction with trusted adults",
+                            "sortOrder": 53,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 396,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Asks and answers questions about what an adult says in order to gather additional information or clarify something that is not understood",
+                            "sortOrder": 54,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "number": 7,
+                    "name": "Develops positive relationships with other children",
+                    "categoryInformation": "A younger child may cooperatively share space or materials with another child. An older child may play a back and forth game with another child.",
+                    "sortOrder": 7,
+                    "progressionPoints": [
+                        {
+                            "id": 40,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Displays interest in, & recognition of, other children",
+                            "sortOrder": 55,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 41,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Participates in simple imitation games",
+                            "sortOrder": 56,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 42,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Participates in simple back-and-forth interactions with another child",
+                            "sortOrder": 57,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 43,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Seeks out other children for social interaction & shows preference for a certain child or children",
+                            "sortOrder": 58,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 44,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Joins in play with other children by taking turns or doing joint activities",
+                            "sortOrder": 59,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 45,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Engages in joint play using coordinated goals, planning, roles, and rules",
+                            "sortOrder": 60,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 46,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Engages in reflection and conversation about past play experiences",
+                            "sortOrder": 61,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 47,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Begins to resolve social conflict & negotiate with peers",
+                            "sortOrder": 62,
+                            "descriptionOrder": "h",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 397,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Be able to make friends",
+                            "sortOrder": 63,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 398,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Respects the rights of others",
+                            "sortOrder": 64,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 399,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Has sense of empathy and interest in fairness",
+                            "sortOrder": 65,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 400,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Uses thinking skills and communication to resolve conflict",
+                            "sortOrder": 66,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "number": 8,
+                    "name": "Develops a sense of identity & belonging",
+                    "categoryInformation": "A younger child may be intrigued with exploring their hands and feet. An older child may create a self-portrait.",
+                    "sortOrder": 8,
+                    "progressionPoints": [
+                        {
+                            "id": 48,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Begins to learn about self through exploration of hands, feet, body, movement, & their capacities",
+                            "sortOrder": 67,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 49,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Shows awareness of own thoughts, feelings, & preferences",
+                            "sortOrder": 68,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 50,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Shows confidence in increasing abilities",
+                            "sortOrder": 69,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 51,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Identifies physical similarities & differences between self & others & makes comparisons",
+                            "sortOrder": 70,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 52,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Recognizes own name",
+                            "sortOrder": 71,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 53,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Identifies self as a member of a family",
+                            "sortOrder": 72,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 54,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Identifies the diversity in human characteristics & how people are similar and different",
+                            "sortOrder": 73,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 401,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Uses labels to describe their own physical characteristics",
+                            "sortOrder": 74,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 402,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Feels a sense of pride, but not superiority about racial and cultural identity",
+                            "sortOrder": 75,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 403,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Learns to recognize injustice and takes action against inequitable behaviors",
+                            "sortOrder": 76,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 404,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Can begin to identify stereotypes and differences within group categories",
+                            "sortOrder": 77,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "number": 9,
+                    "name": "Manages actions & behaviors",
+                    "categoryInformation": "A younger child may use self-soothing behaviors. An older child may ask for help with a difficult task.",
+                    "sortOrder": 9,
+                    "progressionPoints": [
+                        {
+                            "id": 55,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Shows preference for familiar adults when in distress",
+                            "sortOrder": 78,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 56,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Asks for help or assistance when encountering difficult tasks or situations",
+                            "sortOrder": 79,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 57,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Uses basic strategies for dealing with common conflicts, such as sharing, taking turns, & compromising",
+                            "sortOrder": 80,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 58,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Expresses feelings, needs, and opinions in conflict situations; utilizing adult support as needed.",
+                            "sortOrder": 81,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 59,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Manages the expression of feelings, thoughts, impulses, & behaviors with minimal guidance from adults",
+                            "sortOrder": 82,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 60,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Demonstrates ability to delay gratification.",
+                            "sortOrder": 83,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 61,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Follows adult guidelines & expectations for appropriate behavior",
+                            "sortOrder": 84,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 405,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Understands the importance of making appropriate choices and that they are based on expectations in the classroom/school",
+                            "sortOrder": 85,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 406,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Regulates emotions with minimal adult support, most of the time",
+                            "sortOrder": 86,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "number": 10,
+                    "name": "Understands & follows rules, routine",
+                    "categoryInformation": "NOT OBSERVED IN INFANTS. A younger child may wash hands before a meal. An older child may wear a helmet for bike riding.",
+                    "sortOrder": 10,
+                    "progressionPoints": [
+                        {
+                            "id": 218,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Participates in daily routines as/when initiated by adult",
+                            "sortOrder": 87,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 62,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Learns and follows some simple rules and routines with adult support",
+                            "sortOrder": 88,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 63,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Aware of, participates in, and follows everyday routines",
+                            "sortOrder": 89,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 64,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Responds to signals when transitioning from one activity to another",
+                            "sortOrder": 90,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 65,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Identifies and follows safety rules",
+                            "sortOrder": 91,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 407,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Understands expectations of fire safety, bus safety, and seatbelt use",
+                            "sortOrder": 92,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 408,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Give examples that show the meaning of the following concepts: authority, fairness, justice and responsibility",
+                            "sortOrder": 93,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 409,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Respects and cares for the classroom environment",
+                            "sortOrder": 94,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "number": 11,
+                    "name": "Develops increasing care for self, others, & environment",
+                    "categoryInformation": "NOT OBSERVED IN INFANTS. A child may help to put materials away when making a transition.",
+                    "sortOrder": 11,
+                    "progressionPoints": [
+                        {
+                            "id": 219,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Shows interest in, and imitates some personal-care tasks",
+                            "sortOrder": 95,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 220,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Repeats care moments during play",
+                            "sortOrder": 96,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 66,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Participates in personal-care tasks with support",
+                            "sortOrder": 97,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 67,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Cleans up & puts materials away appropriately with adult support",
+                            "sortOrder": 98,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 68,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Completes personal care tasks with increasing independence",
+                            "sortOrder": 99,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 69,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Handles & takes care of classroom materials by using them in appropriate ways",
+                            "sortOrder": 100,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 70,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Responds in caring ways to others",
+                            "sortOrder": 101,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 71,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Expresses concern and support for the needs of others",
+                            "sortOrder": 102,
+                            "descriptionOrder": "h",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 72,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Independently cleans up & puts materials away appropriately",
+                            "sortOrder": 103,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 410,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Describes positive ways to show care, consideration, and concern for others",
+                            "sortOrder": 104,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 411,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Maintains a clean working space, with minimal reminders from an adult",
+                            "sortOrder": 105,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "How I Communicate (Language & Literacy)",
+            "categoryName": "Language & Literacy",
+            "categoryTitle": "How I Communicate",
+            "sortOrder": 3,
+            "attributes": [
+                {
+                    "id": 12,
+                    "number": 12,
+                    "name": "Listens to, understands, & responds to communication from others",
+                    "categoryInformation": "A younger child may make sounds when interacting with an adult or another child. An older child may engage in conversational turn-taking.",
+                    "sortOrder": 12,
+                    "progressionPoints": [
+                        {
+                            "id": 73,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Participates in reciprocal interactions by exchanging facial expressions & language sounds",
+                            "sortOrder": 106,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 74,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Shows understanding of some words & phrases by responding to simple questions and/or following one step directions",
+                            "sortOrder": 107,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 75,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Understands and responds (verbally & non-verbally) to increasingly longer sentences, simple questions, & simple stories",
+                            "sortOrder": 108,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 76,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Shows acknowledgement of complex comments or questions",
+                            "sortOrder": 109,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 77,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Is able to attend to longer, multi-turn conversations and respond appropriately",
+                            "sortOrder": 110,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 412,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Listens to others and takes turns speaking about topics and texts under discussion",
+                            "sortOrder": 111,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 413,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Asks and answers questions about what a speaker says.  Can gather and clarify information in order to strengthen comprehension",
+                            "sortOrder": 112,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 414,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Listens to peers and adults  in order to resolve conflict and formulate appropriate questions",
+                            "sortOrder": 113,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "number": 13,
+                    "name": "Uses verbal & non-verbal communication to express needs, wants, & ideas",
+                    "categoryInformation": "A younger child may use the sign for \"more\" during a mealtime. An older child may stand up and share an experience with other children in a large group meeting.",
+                    "sortOrder": 13,
+                    "progressionPoints": [
+                        {
+                            "id": 78,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Uses varying ways of communicating interests or needs to others, such as sounds or signs",
+                            "sortOrder": 114,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 79,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Combines words or signs from one or more languages into phrases to communicate needs, wants, or ideas.",
+                            "sortOrder": 115,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 80,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Uses simple sentences and/or signs to communicate needs wants, or ideas.",
+                            "sortOrder": 116,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 81,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Uses language, spoken or sign, for a variety of purposes; providing sufficient details to get needs met and/or to provide clarification",
+                            "sortOrder": 117,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 82,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Speaks audibly & expresses thoughts, feelings, & ideas clearly",
+                            "sortOrder": 118,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 83,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Uses conventions of standard English",
+                            "sortOrder": 119,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 415,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Talks about the characters and what happened in a story or poem, with help from adults",
+                            "sortOrder": 120,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 416,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Tells what they think (their opinion) or how they feel about something",
+                            "sortOrder": 121,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 417,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Claps or moves in ways that match the rhythm of a poem or song",
+                            "sortOrder": 122,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "number": 14,
+                    "name": "Understands & uses a growing vocabulary",
+                    "categoryInformation": "A younger child may point to a picture of a cat when an adult uses that word. An older child may begin to understand categories of words such as cat, dog, bird, fish are all animals.",
+                    "sortOrder": 14,
+                    "progressionPoints": [
+                        {
+                            "id": 84,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Looks at familiar people or objects when they are named",
+                            "sortOrder": 123,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 85,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Uses signs or verbalizations for familiar people or objects.",
+                            "sortOrder": 124,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 86,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Responds appropriately to the meaning of words or signs used by adults",
+                            "sortOrder": 125,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 87,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Imitates new words & uses an increasing number of words in communication",
+                            "sortOrder": 126,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 88,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Comprehends an increasing number of words or signs; particularly those used in daily activities & asks questions about word meanings",
+                            "sortOrder": 127,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 89,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Understands most positional words",
+                            "sortOrder": 128,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 90,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Demonstrates an understanding of word categories, shared characteristics of words & word meanings, & the ability to distinguish between similar words",
+                            "sortOrder": 129,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 418,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Use words and phrases like left, far, in front of, and between to explain where people, animals, and things are",
+                            "sortOrder": 130,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 419,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Use words and phrases like before, afternoon, next week, and long ago to explain when events happened or will happen",
+                            "sortOrder": 131,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 420,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Use knowledge of English grammar and vocabulary in both speech and writing",
+                            "sortOrder": 132,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "number": 15,
+                    "name": "Understands & uses social & conversational rules",
+                    "categoryInformation": "A younger child may babble back to an adult as they are being spoken to. An older child may ask follow up questions after having read a story.",
+                    "sortOrder": 15,
+                    "progressionPoints": [
+                        {
+                            "id": 91,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Participates in serve and return conversations with non-verbal facial expressions, sounds, & gestures",
+                            "sortOrder": 133,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 92,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Asks simple questions using gestures, signs, and/or words with variation in pitch and intonation",
+                            "sortOrder": 134,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 93,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Seeks information & meaning by asking questions in a variety of ways",
+                            "sortOrder": 135,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 94,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Participates in simple conversations; maintained by back-and-forth exchanges of ideas or information",
+                            "sortOrder": 136,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 95,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Maintains multi-turn conversations with adults, children, & groups by responding in sophisticated ways, such as asking related questions or expressing agreement",
+                            "sortOrder": 137,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 421,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Participates in conversations appropriately based on group size and expectations",
+                            "sortOrder": 138,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 422,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Uses words to resolve conflicts, solve problems, or negotiate with peers",
+                            "sortOrder": 139,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 423,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Asks original and complex questions",
+                            "sortOrder": 140,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 424,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Talks in a group, shares information, and express feelings",
+                            "sortOrder": 141,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "number": 16,
+                    "name": "Demonstrates phonological awareness",
+                    "categoryInformation": "A younger child may experiment with repeating sounds like \"bababa\". An older child may be able to identify the first letter of a word based on the sound they hear... \"Flower starts with the letter... F!\"",
+                    "sortOrder": 16,
+                    "progressionPoints": [
+                        {
+                            "id": 96,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Vocalizes sounds & experiments with common first sounds such as \"mama\" or \"baba\".",
+                            "sortOrder": 142,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 97,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Repeats particularly pleasing sounds",
+                            "sortOrder": 143,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 98,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Recognizes familiar sounds",
+                            "sortOrder": 144,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 99,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Demonstrates rhyme recognition",
+                            "sortOrder": 145,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 100,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Produces beginning sounds in spoken words when prompted & with support, if needed",
+                            "sortOrder": 146,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 101,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Identifies word groups sharing an initial sound",
+                            "sortOrder": 147,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 102,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Knows the sounds associated with most letters",
+                            "sortOrder": 148,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 103,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Identifies, blends, & segments syllables in spoken words",
+                            "sortOrder": 149,
+                            "descriptionOrder": "h",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 425,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Develops auditory discrimination skills",
+                            "sortOrder": 150,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 426,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Recognizes similar and different sounds",
+                            "sortOrder": 151,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 427,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Identifies rhyming words",
+                            "sortOrder": 152,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "number": 17,
+                    "name": "Demonstrates knowledge of print & alphabet",
+                    "categoryInformation": "NOT OBSERVED IN INFANTS. A younger child may make up words based on groupings of letter. An older child may begin to put groupings of letters together to write words and sentences.",
+                    "sortOrder": 17,
+                    "progressionPoints": [
+                        {
+                            "id": 104,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Demonstrates a beginning understanding that print carries meaning",
+                            "sortOrder": 153,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 105,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Distinguishes print from pictures",
+                            "sortOrder": 154,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 221,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Understands that letters are symbols",
+                            "sortOrder": 155,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 106,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Understands written words are made up of a group of individual letters",
+                            "sortOrder": 156,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 107,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Recognizes & names some letters of the alphabet, including letters in own name",
+                            "sortOrder": 157,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 108,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Names most letters (identifying more uppercase, than lower case letters)",
+                            "sortOrder": 158,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 109,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Demonstrates an understanding of basic conventions of print",
+                            "sortOrder": 159,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 110,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Understands & uses clusters of letters to represent words.",
+                            "sortOrder": 160,
+                            "descriptionOrder": "h",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 428,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Identifies one's own printed name and the names of others, with minimal adult support",
+                            "sortOrder": 161,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 429,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Identifies some basic sight words",
+                            "sortOrder": 162,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 430,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Demonstrates awareness that letters hold individual speech sounds",
+                            "sortOrder": 163,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 431,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Begins to sound-out short words",
+                            "sortOrder": 164,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "number": 18,
+                    "name": "Understands & interacts with books and text",
+                    "categoryInformation": "A younger child may hold a book and pretend to read and/or turn the pages. An older child may begin to read simple words and sentences.",
+                    "sortOrder": 18,
+                    "progressionPoints": [
+                        {
+                            "id": 111,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Shows interest in books, pictures, songs, & rhymes",
+                            "sortOrder": 165,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 112,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Actively participates in book reading & storytelling; holding book & turning pages",
+                            "sortOrder": 166,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 113,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Points to familiar pictures in books.",
+                            "sortOrder": 167,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 114,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Asks & answers questions about main characters & events in familiar stories",
+                            "sortOrder": 168,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 115,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Demonstrates an understanding of the meaning of stories and information in books",
+                            "sortOrder": 169,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 116,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Begins to point to simple words while reading simple, memorized texts",
+                            "sortOrder": 170,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 117,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Identifies book parts & features",
+                            "sortOrder": 171,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 118,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Tells stories using a sequence of three connected events",
+                            "sortOrder": 172,
+                            "descriptionOrder": "h",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 119,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Demonstrates an understanding of the differences between fantasy & reality",
+                            "sortOrder": 173,
+                            "descriptionOrder": "i",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 432,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Talks about facts and the main idea of a text",
+                            "sortOrder": 174,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 433,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Tells a story to an adult while the adult writes it down",
+                            "sortOrder": 175,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 434,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Draws pictures to show what happens in the story",
+                            "sortOrder": 176,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "number": 19,
+                    "name": "Uses writing for a variety of purposes",
+                    "categoryInformation": "NOT OBSERVED IN INFANTS. A younger child may begin to use crayons to make scribbles on paper. An older child may make a sign to preserve a block structure they have made.",
+                    "sortOrder": 19,
+                    "progressionPoints": [
+                        {
+                            "id": 222,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Attends to and shows interest while adults (or others) write",
+                            "sortOrder": 177,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 120,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Makes marks on paper to explore crayons, paint, and other materials",
+                            "sortOrder": 178,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 121,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Makes scribbles or simple shapes to represent objects or actions",
+                            "sortOrder": 179,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 223,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Shows interest in using writing materials, imitating adults' use",
+                            "sortOrder": 180,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 122,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Makes letter-like marks on paper",
+                            "sortOrder": 181,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 123,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Progressively uses drawing & letter-like forms to intentionally convey meaning",
+                            "sortOrder": 182,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 124,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Writes or draws for a variety of purposes and demonstrates evidence of many aspects of print conventions",
+                            "sortOrder": 183,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 435,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Writes letters in first and last name using upper case letter and lower case letters",
+                            "sortOrder": 184,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 436,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Writes letters and words to label or to tell a story about one's own picture",
+                            "sortOrder": 185,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 437,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Writes using invented spelling, demonstrating some knowledge of association between letter and sound",
+                            "sortOrder": 186,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 438,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Begins to use technology to create simple text and drawings",
+                            "sortOrder": 187,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "My Growing Brain (Cognitive Development)",
+            "categoryName": "Cognitive Development",
+            "categoryTitle": "My Growing Brain",
+            "sortOrder": 4,
+            "attributes": [
+                {
+                    "id": 20,
+                    "number": 20,
+                    "name": "Observes, explores, & describes their environment to gain understanding of people, places, & things",
+                    "categoryInformation": "A younger child may put a toy in their mouth to explore its properties. An older child may use a microscope to get a closer look at a leaf they found outside.",
+                    "sortOrder": 20,
+                    "progressionPoints": [
+                        {
+                            "id": 127,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Experiments with everyday objects & materials to answer what, why, or how questions",
+                            "sortOrder": 190,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 128,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Uses the five senses to observe objects, materials, & events",
+                            "sortOrder": 191,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 129,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Represents observable phenomena through drawing",
+                            "sortOrder": 192,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 130,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Begins to use scientific vocabulary",
+                            "sortOrder": 193,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 131,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Asks questions that can be answered through investigation",
+                            "sortOrder": 194,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 132,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Plans & implements investigations & experiments",
+                            "sortOrder": 195,
+                            "descriptionOrder": "h",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 133,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Uses scientific practice words or signs such as observe, predict, experiment, & measure",
+                            "sortOrder": 196,
+                            "descriptionOrder": "i",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 134,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Identifies the five senses & uses them to make observations",
+                            "sortOrder": 197,
+                            "descriptionOrder": "j",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 135,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Uses tools & technology to extend observations.",
+                            "sortOrder": 198,
+                            "descriptionOrder": "k",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 136,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Represents observable phenomena with pictures, diagrams, & 3D models",
+                            "sortOrder": 199,
+                            "descriptionOrder": "l",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 439,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Uses various sources of information in research, discussion, and inquiry",
+                            "sortOrder": 200,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 440,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Explains how various peoples and cultures in the United States celebrate their histories (like with holidays)",
+                            "sortOrder": 201,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 441,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Asks questions about the natural world",
+                            "sortOrder": 202,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 442,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Independently seeks information. Asks why, what, how, what if questions when exploring materials",
+                            "sortOrder": 203,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 443,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Develops sequence of questions based on investigations: Do worms sleep?  Where do they go when it snows?",
+                            "sortOrder": 204,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "number": 21,
+                    "name": "Compares & categorizes objects, materials, events",
+                    "categoryInformation": "NOT OBSERVED IN INFANTS. A younger child may put all of the blue blocks in a pile and all of the red blocks in a pile. An older child may use a tape measure to evaluate how many inches tall they are in comparison to the other children.",
+                    "sortOrder": 21,
+                    "progressionPoints": [
+                        {
+                            "id": 224,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Collects or gathers like objects (e.g. leaves, sticks, blocks)",
+                            "sortOrder": 205,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 137,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Matches objects by similar characteristics",
+                            "sortOrder": 206,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 138,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Sorts objects into groups based on simple attributes such as color, shape, & size",
+                            "sortOrder": 207,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 139,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Uses simple measurement tools to quantify similarities & differences",
+                            "sortOrder": 208,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 140,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Orders objects by measurable attributes",
+                            "sortOrder": 209,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 141,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Identifies characteristics of people & things.",
+                            "sortOrder": 210,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 142,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Uses standard & non-standard measurement to observe & compare (objects, materials, and events)",
+                            "sortOrder": 211,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 143,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Sorts objects into groups based on complex attributes such as weight, texture, or sound",
+                            "sortOrder": 212,
+                            "descriptionOrder": "h",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 144,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Uses comparative language",
+                            "sortOrder": 213,
+                            "descriptionOrder": "i",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 444,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Discovers how people and events from the past relate to the present",
+                            "sortOrder": 214,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 445,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Explains how maps and globes are similar and different. Make maps, drawings, or models to show how familiar places (like the school)",
+                            "sortOrder": 215,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 446,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Solves problems using the skills and tools of engineers and scientists",
+                            "sortOrder": 216,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 447,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Classifies objects with two or more characteristics (red, square blocks)",
+                            "sortOrder": 217,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 448,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Uses one-to-one correspondence as a strategy",
+                            "sortOrder": 218,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 449,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Arranges objects in order by height, size, weight, most, least etc.",
+                            "sortOrder": 219,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 450,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Articulates comparisons among objects",
+                            "sortOrder": 220,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 22,
+                    "number": 22,
+                    "name": "Demonstrates an understanding of cause-and-effect",
+                    "categoryInformation": "A younger child may repeatedly drop a toy to see what happens. An older child may make a prediction about what will happen on the next page of a story.",
+                    "sortOrder": 22,
+                    "progressionPoints": [
+                        {
+                            "id": 145,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Repeats an action to make things happen or to get an adult to repeat an action",
+                            "sortOrder": 221,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 146,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Engages in purposeful actions to cause things to happen",
+                            "sortOrder": 222,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 147,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Makes simple predictions about what will happen next (in a story or in daily routines and play)",
+                            "sortOrder": 223,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 148,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Draws conclusions, constructs explanations, & verbalizes cause & effect relationships",
+                            "sortOrder": 224,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 451,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Explores how things change depending on a variable (e.g. temperature)",
+                            "sortOrder": 225,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 452,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Compares what happens when objects are pushed or pulled in different ways",
+                            "sortOrder": 226,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 23,
+                    "number": 23,
+                    "name": "Uses reasoning & problem-solving skills",
+                    "categoryInformation": "A younger child may crawl over to the other side of the room to retrieve a toy they want to play with. An older child may look to find an answer to a question in a book in the library.",
+                    "sortOrder": 23,
+                    "progressionPoints": [
+                        {
+                            "id": 149,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Uses body movements & actions to solve simple problems and/or explore environment",
+                            "sortOrder": 228,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 150,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Uses a variety of simple strategies to try to solve problems",
+                            "sortOrder": 229,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 151,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Engages in simple investigations & experiments",
+                            "sortOrder": 230,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 152,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Makes simple scientific predictions",
+                            "sortOrder": 231,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 153,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Solves problems based on past experiences or by devising a plan",
+                            "sortOrder": 232,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 154,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Can articulate reasoning for actions and/or solutions.",
+                            "sortOrder": 233,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 155,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Analyzes & interprets data",
+                            "sortOrder": 234,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 156,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Gathers information about a question using observation, books, & technology",
+                            "sortOrder": 235,
+                            "descriptionOrder": "h",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 454,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Shows interest in common instruments for measuring (e.g. height, weight, length, temperature)",
+                            "sortOrder": 236,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 455,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Arranges objects from shortest to longest, shortest to tallest, lightest to heaviest",
+                            "sortOrder": 237,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 456,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Compares three or more things using some comparison words appropriately (e.g. small, smallest). Estimates and measure using non-standard measurement tools.",
+                            "sortOrder": 238,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 457,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Collects data and makes records using lists or graphs",
+                            "sortOrder": 239,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 458,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Develops hypotheses and conclusions, makes predictions",
+                            "sortOrder": 240,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 24,
+                    "number": 24,
+                    "name": "Demonstrates an understanding of number names, order, & quantity",
+                    "categoryInformation": "A younger child may use the sign for \"more\" when wanting more food at lunch. An older child may count to 20 or more in sequence without missing any numbers.",
+                    "sortOrder": 24,
+                    "progressionPoints": [
+                        {
+                            "id": 157,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Attends to quantity in play with objects, such as reaching or looking for more than one object",
+                            "sortOrder": 241,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 158,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Uses simple signs to refer to quantity such as \"more\"",
+                            "sortOrder": 242,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 159,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Uses basic words to refer to quantity such as \"more\" and \"all gone\"",
+                            "sortOrder": 243,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 160,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Begins to use basic number words",
+                            "sortOrder": 244,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 161,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Uses fingers to show how old they are",
+                            "sortOrder": 245,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 162,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Identifies \"more\" or \"less\" with a small number of items without needing to count them",
+                            "sortOrder": 246,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 163,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Says or signs number words in sequence (up to 10)",
+                            "sortOrder": 247,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 164,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Develops an understanding of whole numbers",
+                            "sortOrder": 248,
+                            "descriptionOrder": "h",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 165,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Shows an understanding of 1:1 correspondence",
+                            "sortOrder": 249,
+                            "descriptionOrder": "i",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 166,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Says or signs number words in sequence (up to 20)",
+                            "sortOrder": 250,
+                            "descriptionOrder": "j",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 167,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Recognizes small quantities of up to five objects and says or signs the number",
+                            "sortOrder": 251,
+                            "descriptionOrder": "k",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 168,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Understands that the last number said represents the number of objects in a set",
+                            "sortOrder": 252,
+                            "descriptionOrder": "l",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 169,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Utilizes & uses numbers related to order & position (up to 10th)",
+                            "sortOrder": 253,
+                            "descriptionOrder": "m",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 459,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Recognizes, names, and writes numerals 0-20",
+                            "sortOrder": 254,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 460,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Counts to 100 by ones or tens, starting from any number",
+                            "sortOrder": 255,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 461,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Explains that numbers in the \"teens\" (11- 19) are made of a ten and some ones",
+                            "sortOrder": 256,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 462,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Creates groups of 10 with manipulatives",
+                            "sortOrder": 257,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 25,
+                    "number": 25,
+                    "name": "Demonstrates an understanding of shapes, spatial sense, & patterns",
+                    "categoryInformation": "A younger child may watch an adult as they move from one side of the room to the other. An older child may be able to recite the names of advanced shapes like an octagon, and tell you how many sides it has.",
+                    "sortOrder": 25,
+                    "progressionPoints": [
+                        {
+                            "id": 170,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Explores or examines objects & watches when they move",
+                            "sortOrder": 258,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 225,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Shows awareness when an object is not in its usual place",
+                            "sortOrder": 259,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 171,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Explores & discovers how things move through space and/or fit together",
+                            "sortOrder": 260,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 172,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Demonstrates awareness of size",
+                            "sortOrder": 261,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 173,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Explores & completes simple puzzles",
+                            "sortOrder": 262,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 174,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Recognizes simple patterns",
+                            "sortOrder": 263,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 175,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Recognizes & names simple shapes",
+                            "sortOrder": 264,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 176,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Understands simple spatial vocabulary",
+                            "sortOrder": 265,
+                            "descriptionOrder": "h",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 177,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Fills in missing elements of patterns",
+                            "sortOrder": 266,
+                            "descriptionOrder": "i",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 178,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Creates, identifies, extends, & duplicates simple patterns with objects, numbers, sounds, & movement",
+                            "sortOrder": 267,
+                            "descriptionOrder": "j",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 179,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Names & describes a greater number of shapes, and does so using length, number of sides, & angles",
+                            "sortOrder": 268,
+                            "descriptionOrder": "k",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 180,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Analyzes, compares & sorts 2D and 3D shapes & objects.",
+                            "sortOrder": 269,
+                            "descriptionOrder": "l",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 181,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Understands & uses directional vocabulary",
+                            "sortOrder": 270,
+                            "descriptionOrder": "m",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 463,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Names, describes, analyzes, and compares shapes like squares, circles, triangles, rectangles, hexagons, cubes, cones, cylinders, and spheres",
+                            "sortOrder": 271,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 464,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Identifies shared two-dimensional shapes as well as diamonds, ovals, etc.",
+                            "sortOrder": 272,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 465,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Identifies existing visual and oral patterns (e.g. AB, ABC, AAB, ABB)",
+                            "sortOrder": 273,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 466,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Copies and extends existing visual and oral patterns",
+                            "sortOrder": 274,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 467,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Creates new visual and oral patterns",
+                            "sortOrder": 275,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 26,
+                    "number": 26,
+                    "name": "Demonstrates an understanding of simple operations",
+                    "categoryInformation": "NOT OBSERVED IN INFANTS OR TODDLERS. A younger child may be able to state how many children may play in an interest area based on the number of children they observe there in that moment. An older child may be able to use tally marks to keep track of the score in a simple game.",
+                    "sortOrder": 26,
+                    "progressionPoints": [
+                        {
+                            "id": 226,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Begins to show understanding of math terms such as more than, less than, difference, all together, or take away",
+                            "sortOrder": 276,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 227,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Manipulates objects to achieve a goal (i.e. giving one more napkin so everyone has one, or removing a chair to have the correct number)",
+                            "sortOrder": 277,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 182,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Begins to add & subtract small collections of objects, with support",
+                            "sortOrder": 278,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 183,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Represents addition & subtraction in different way (fingers, objects, drawings)",
+                            "sortOrder": 279,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 184,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Solves simple addition & subtraction word problems",
+                            "sortOrder": 280,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 468,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Finds the number that makes 10 for any number 1-9, with minimal adult support. For example, 6 needs 4 to make 10.",
+                            "sortOrder": 281,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 469,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Breaks numbers into smaller numbers, with minimal adult support, for example, 5 is made of 2 and 3 or 4 and 1.",
+                            "sortOrder": 282,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 470,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Uses math to make arguments about why something is true or false",
+                            "sortOrder": 283,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 471,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Adds and subtracts with numbers up to five, with minimal adult support",
+                            "sortOrder": 284,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 27,
+                    "number": 27,
+                    "name": "Uses imitation & symbolic representation in play",
+                    "categoryInformation": "A younger child may be able to play peek-a-boo with an adult; imitating the hand motions. An older child may take on the role of cashier during a game of supermarket in the dramatic play area.",
+                    "sortOrder": 27,
+                    "progressionPoints": [
+                        {
+                            "id": 185,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Engages in reciprocal imitation games",
+                            "sortOrder": 285,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 186,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Imitates the earlier actions of others",
+                            "sortOrder": 286,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 187,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Uses toy objects in ways that are similar to the real objects they represent",
+                            "sortOrder": 287,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 188,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Imitates complex or multi-step actions of others",
+                            "sortOrder": 288,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 189,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Acts out routines or social roles",
+                            "sortOrder": 289,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 190,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Uses objects as symbols to represent other objects",
+                            "sortOrder": 290,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 191,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Improvises with props during dramatic play",
+                            "sortOrder": 291,
+                            "descriptionOrder": "g",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 192,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Uses symbols to represent thinking in play",
+                            "sortOrder": 292,
+                            "descriptionOrder": "h",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 193,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Participates cooperatively in complex pretend play, with predetermined roles & plans",
+                            "sortOrder": 293,
+                            "descriptionOrder": "i",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 472,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Visualizes environments and arranges the physical playing space to communicate mood, time, and locale",
+                            "sortOrder": 294,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "How I Learn (Approaches To Learning)",
+            "categoryName": "Approaches To Learning",
+            "categoryTitle": "How I Learn",
+            "sortOrder": 5,
+            "attributes": [
+                {
+                    "id": 28,
+                    "number": 28,
+                    "name": "Maintains focus & sustains attention",
+                    "categoryInformation": "A younger child may follow the movement and sound of a wind chime. An older child may work on a building structure over the span of several days until it is completed.",
+                    "sortOrder": 28,
+                    "progressionPoints": [
+                        {
+                            "id": 194,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Attends to auditory and visual stimuli",
+                            "sortOrder": 295,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 195,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Maintains focus & attention on a simple task or activity for short periods of time with adult support",
+                            "sortOrder": 296,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 196,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Maintains focus & attention on a simple task or activity for short periods of time independently",
+                            "sortOrder": 297,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 197,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Maintains focus & attention on more complex tasks or activities over extended periods of times (days or weeks)",
+                            "sortOrder": 298,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 473,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Span of attention increases; works at task for longer periods of time",
+                            "sortOrder": 299,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 474,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Is able to pay attention and is not distracted by sounds not noticed by others",
+                            "sortOrder": 300,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 475,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Attends to a group story or activity for 15 to 20 minutes",
+                            "sortOrder": 301,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 29,
+                    "number": 29,
+                    "name": "Ability to remember information to use in later tasks",
+                    "categoryInformation": "A younger child may smile or squeal when their parent arrives to pick them up for the day. An older child may be able to play a memory matching game with success.",
+                    "sortOrder": 29,
+                    "progressionPoints": [
+                        {
+                            "id": 198,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Recognizes familiar people, places, and things",
+                            "sortOrder": 302,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 199,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Recalls singular details to a story, activity, or event",
+                            "sortOrder": 303,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 200,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Holds small amounts of information in mind to follow and complete two-step directions",
+                            "sortOrder": 304,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 201,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Recounts details to a story or experience in order",
+                            "sortOrder": 305,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 202,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Holds increasing amounts of information in mind to follow & complete multi-step directions",
+                            "sortOrder": 306,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 476,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Recalls the main idea and some details of the story/discussion, with minimal adult support",
+                            "sortOrder": 307,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 30,
+                    "number": 30,
+                    "name": "Demonstrates flexibility in thoughts, actions, & behavior",
+                    "categoryInformation": "NOT OBSERVED IN INFANTS. A younger child may be able to put materials away in preparation to go outside. An older child may be able to have a conversation with another child about what to do when they both want to use the same materials.",
+                    "sortOrder": 30,
+                    "progressionPoints": [
+                        {
+                            "id": 228,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Demonstrates the ability to transition from one task or activity to another with consistent adult support",
+                            "sortOrder": 308,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 203,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Regularly transitions from one task or activity to another with intermittent adult support",
+                            "sortOrder": 309,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 204,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Utilizes more than one strategy to complete work and/or solve a simple problem",
+                            "sortOrder": 310,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 205,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Successfully transitions from one task or activity to another independently",
+                            "sortOrder": 311,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 206,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Utilizes multiple strategies to complete work and/or solve increasingly complex problems without adult support",
+                            "sortOrder": 312,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 477,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Understands concepts, such as simple time markers (today, tomorrow, yesterday)",
+                            "sortOrder": 313,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 478,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Talks self through steps required in simple problem solving situations",
+                            "sortOrder": 314,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 485,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Is able to cope with an unexpected change, most of the time",
+                            "sortOrder": 315,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 31,
+                    "number": 31,
+                    "name": "Demonstrates persistence in actions & behaviors",
+                    "categoryInformation": "A child may attend to a simple puzzle until they are able to get every single piece to fit correctly.",
+                    "sortOrder": 31,
+                    "progressionPoints": [
+                        {
+                            "id": 207,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Repeats simple actions to achieve a goal",
+                            "sortOrder": 316,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 208,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Stays engaged in an activity to successfully complete a simple task",
+                            "sortOrder": 317,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 209,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Engages in an activity to successfully complete more complex tasks for increasingly longer amounts of time",
+                            "sortOrder": 318,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 210,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Engages in activities to successfully complete tasks from beginning to end, despite potential challenges or obstacles",
+                            "sortOrder": 319,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 480,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Is highly involved and persistent in problem solving; tries alternative methods when needed. Seek answers through reflection; asks for help when needed.",
+                            "sortOrder": 320,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 32,
+                    "number": 32,
+                    "name": "Demonstrates use of creativity & imagination in learning & play",
+                    "categoryInformation": "NOT OBSERVED IN INFANTS. A younger child may pretend a block is a telephone by holding it up to their ear and talking. An older child may take on character roles during dramatic play (family members, store clerk, story characters, etc.",
+                    "sortOrder": 32,
+                    "progressionPoints": [
+                        {
+                            "id": 211,
+                            "progressionPointsId": 1,
+                            "progressionPointsTitle": "Emerging",
+                            "description": "Uses objects and materials in novel ways during play",
+                            "sortOrder": 321,
+                            "descriptionOrder": "a",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 212,
+                            "progressionPointsId": 2,
+                            "progressionPointsTitle": "Developing",
+                            "description": "Experiments with more than one material or approach when engaged in an activity or solitary/independent play",
+                            "sortOrder": 322,
+                            "descriptionOrder": "b",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 213,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Uses pretend or imaginary objects in social play",
+                            "sortOrder": 323,
+                            "descriptionOrder": "c",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 229,
+                            "progressionPointsId": 3,
+                            "progressionPointsTitle": "Progressing",
+                            "description": "Takes on the role of another (\"I'm the mommy\")",
+                            "sortOrder": 324,
+                            "descriptionOrder": "d",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 214,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Uses objects and materials in increasingly innovative ways",
+                            "sortOrder": 325,
+                            "descriptionOrder": "e",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 215,
+                            "progressionPointsId": 4,
+                            "progressionPointsTitle": "Advancing",
+                            "description": "Engages in inventive social play",
+                            "sortOrder": 326,
+                            "descriptionOrder": "f",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 481,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Engages in elaborate and extended role-play",
+                            "sortOrder": 327,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 482,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Uses props in play to create complex scenarios",
+                            "sortOrder": 328,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 483,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Designs and constructs with blocks and other three-dimensional materials",
+                            "sortOrder": 329,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        },
+                        {
+                            "id": 484,
+                            "progressionPointsId": 5,
+                            "progressionPointsTitle": "Refining",
+                            "description": "Draws, paints, and uses multi-media to create representations with many details",
+                            "sortOrder": 330,
+                            "descriptionOrder": "NULL",
+                            "isProgressionHidden": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
